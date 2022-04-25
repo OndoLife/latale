@@ -16,7 +16,8 @@
         var currenYear = date.getFullYear();
 
         var 汇率
-        汇率 = +prompt("当前汇率,1人民币=?韩元(提示:只输入数字,不要输入小数点之后)")
+        汇率 = +prompt("1人民币=?韩元(提示:只输入数字)")
+        汇率 = Math.floor(汇率);
 
         var 四十万 = 400000
         var 三十万 = 300000
