@@ -15,10 +15,15 @@ header {
     font-weight: 600;
 }
 
+div{
+    display: flex;
+    margin: 20px;
+}
+
 label{
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: rgb(181, 0, 0);
     border-style:solid;
@@ -26,8 +31,8 @@ label{
 
 menu {
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: rgb(0, 81, 104);
     border-style:solid;
@@ -35,8 +40,8 @@ menu {
 
 nav {
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: rgb(5, 119, 66);
     border-style:solid;
@@ -44,8 +49,8 @@ nav {
 
 main {
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: brown;
     border-style:solid;
@@ -53,8 +58,8 @@ main {
 
 section {
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: blue;
     border-style:solid;
@@ -62,8 +67,8 @@ section {
 
 footer {
     padding: 10px;
-    margin: 20px;
-    font-size: 23px;
+    margin: 30px;
+    font-size: 25px;
     font-weight: 500;
     color: purple;
     border-style:solid;
