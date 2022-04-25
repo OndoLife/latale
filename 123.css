@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    margin: 30px;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+label{
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(181, 0, 0);
+    border-style:solid;
+}
+
+menu {
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(0, 81, 104);
+    border-style:solid;
+}
+
+nav {
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(5, 119, 66);
+    border-style:solid;
+}
+
+main {
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: brown;
+    border-style:solid;
+}
+
+section {
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: blue;
+    border-style:solid;
+}
+
+footer {
+    padding: 10px;
+    margin: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: purple;
+    border-style:solid;
+    
+}
+
